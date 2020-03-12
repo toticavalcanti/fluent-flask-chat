@@ -21,7 +21,7 @@ markupsafe==1.1
 oauthlib==2.1.0
 pygments==2.2.0
 python-dotenv==0.10.0
-python-engineio==2.2.0
+python-engineio==3.8.2.post1
 python-socketio==2.0.0
 requests-oauthlib==1.0.0
 requests==2.19.1
