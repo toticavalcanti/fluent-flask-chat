@@ -29,9 +29,8 @@ generate database:
 $ flask initdb
 
 ```
-generate fake data then run:
+run the app and generate fake users and data inside the chat:
 ```
-$ flask forge
 $ flask run
 * Running on http://127.0.0.1:5000/
 ```
