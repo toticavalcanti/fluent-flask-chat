@@ -8,7 +8,7 @@
 
 clone:
 ```
-$ git clone https://github.com/toti/fluentchat.git
+$ git clone git@github.com:toticavalcanti/fluent-flask-chat.git
 $ cd fluentchat
 ```
 create & activate virtual env then install dependency:
